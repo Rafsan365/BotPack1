@@ -10,11 +10,11 @@
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100085012125971",
     "OTHER_FB_UID",
-    "100005057593971"
+    "61555397908680"
   ],
   "DESIGN": {
     "Title": "BotPack",
